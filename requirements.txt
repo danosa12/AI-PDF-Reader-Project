@@ -1,9 +1,5 @@
-streamlit
+flask
+gunicorn
 pdfplumber
-PyPDF2
-pytesseract
-openai
-transformers
-sumy
-python-dotenv
 nltk
+openai
